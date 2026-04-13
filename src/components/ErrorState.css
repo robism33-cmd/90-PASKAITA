@@ -1,0 +1,19 @@
+.error-box {
+  background: #fff1f2;
+  border: 1px solid #fecdd3;
+  border-radius: 24px;
+  padding: 20px;
+  color: #be123c;
+  box-shadow: 0 18px 45px rgba(15, 23, 42, 0.06);
+}
+
+.error-title {
+  font-size: 18px;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.error-text {
+  font-size: 14px;
+  line-height: 1.5;
+}
